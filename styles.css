@@ -13,8 +13,8 @@ body{
     display: flex;
     width: 100vw;
     height: 100vh;
-    background: url("/assets/b52d10b95fc89524979a059.jpg");
-    background-color: #ffeff6 ;
+    background: rgb(61,124,212);
+    background: radial-gradient(circle, rgba(61,124,212,1) 0%, rgba(248,251,255,1) 87%);
     background-repeat: no-repeat;
     background-size: cover; 
     align-items: center;
