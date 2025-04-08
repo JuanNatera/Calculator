@@ -14,6 +14,7 @@ body{
     width: 100vw;
     height: 100vh;
     background: url("/assets/b52d10b95fc89524979a059.jpg");
+    background-color: #ffeff6 ;
     background-repeat: no-repeat;
     background-size: cover; 
     align-items: center;
